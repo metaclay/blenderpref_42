@@ -1,0 +1,17 @@
+markers
+Color ▸ Brightness/Contrast
+Color ▸ RGB Curves
+  footage.mp4
+0 box.0001.png
+  box.0001.png
+  box_new.0001.png
+Mesh ▸ Cube
+  Camera
+Add ▸ Camera
+  Camera.001
+  boxcomp.0001.png
+  footage.mp4.002
+Mesh ▸ Plane
+Mesh ▸ UV Sphere
+ 0 Arches_E_PineTree_3k.hdr
+   Render Result
